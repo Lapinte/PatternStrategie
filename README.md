@@ -1,0 +1,2 @@
+# PatternStrategie
+Design Pattern Stratégie
